@@ -1,5 +1,3 @@
-// Thao Nguyen (501017698)
-
 import java.util.Arrays;
 import java.util.TreeMap;
 
