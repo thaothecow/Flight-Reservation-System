@@ -1,5 +1,3 @@
-// Thao Nguyen (501017698)
-
 public class Passenger
 {
 	private String name;
