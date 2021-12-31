@@ -1,5 +1,4 @@
-/* Thao Nguyen (501017698)
- *
+/* 
  * A Long Haul Flight is a flight that travels a long distance and has two types of seats (First Class and Economy)
  */
 
