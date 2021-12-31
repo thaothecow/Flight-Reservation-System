@@ -1,1 +1,1 @@
-# Flight-Reservation-System
+# Flight Reservation System for a school project
