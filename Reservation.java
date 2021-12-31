@@ -1,5 +1,3 @@
-// Thao Nguyen (501017698)
-
 public class Reservation
 {
 	String flightNum;
